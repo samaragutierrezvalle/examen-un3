@@ -53,10 +53,6 @@ public class ColaDinamica {
 		}
 		return v;
 	}
-	/*public static void main(String[] args) {
-		ColaDinamica cD = new ColaDinamica();
-		cD.Empujar("Hola", 1);
-		cD.MostrarCola();
-	}*/
+	
 	
 }
