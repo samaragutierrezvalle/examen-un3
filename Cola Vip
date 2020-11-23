@@ -38,7 +38,7 @@ public class ColaVIP {
 				recorre = recorre.siguiente;
 			}
 		}else {
-			System.out.println("La cola comun esta vacía");
+			System.out.println("La cola VIP esta vacía");
 		}
 		
 
